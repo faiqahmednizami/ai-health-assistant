@@ -1,0 +1,14 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.zip
+*.egg
+*.egg-info/
+dist/
+build/
+
+# AWS credentials
+*.pem
+.env
